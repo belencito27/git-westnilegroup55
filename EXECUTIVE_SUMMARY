@@ -1,0 +1,31 @@
+# Executive Summary
+
+This project predicts the locations and days of the year in Chicago where the WNV virus will be present.  Based on this results the Department of Health in Chicago can organize an spray plan to prevent the appearance of mosquitos in the determined locations and mitigate the risk of appearance of new West Nile Virus cases.
+
+
+Content:
+
+1. EDA spray
+2. EDA weather
+3. EDA train and test data
+4. Model 0 - Models using only train data
+5. Model 1 - Models using train and weather data
+6. Power point presentation
+
+Team members:
+Belén Sánchez
+Jamila Holt
+Jonathan Slapnik
+
+Models Used:
+Logistic Regression
+KNN
+Decision Tree
+Bagging Tree
+Random Forest
+Adaboost
+Support Vector Classifier
+
+Best Performing Models:
+Logistic Regression
+Adaboost
